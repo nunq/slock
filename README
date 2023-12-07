@@ -2,6 +2,10 @@ slock - simple screen locker
 ============================
 simple screen locker utility for X.
 
+Changes made
+------------
+* failcommand patch, see https://tools.suckless.org/slock/patches/failure-command/
+
 
 Requirements
 ------------
